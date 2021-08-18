@@ -5,3 +5,8 @@ containing sales data from 2014 to 2017. Forecasting is done based on sales hist
 
 This graph below shows office supplies sales data.
 ![sales](https://user-images.githubusercontent.com/61008049/129851143-c88b3f26-0e76-40be-b41a-fe6819a28418.png)
+
+Based on the pattern of the data, we choose the best model that can predict the data with least error. From the analysis we know that ARIMA model is the best to forecast stationary with seasonal and trend data. This graph below shows forecasting result using ARIMA model.
+![forecast](https://user-images.githubusercontent.com/61008049/129851244-0bb68f54-5cac-4364-8bea-5e3858f9d7f9.png)
+
+Open the python notebook to see further analysis.
